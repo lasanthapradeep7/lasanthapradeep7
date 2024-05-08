@@ -1,5 +1,4 @@
-<h1 align="center">Hello! I'm Lasantha Pradeep</h1>
-<h3 align="center">Hi, My name is Lasantha Pradeep, 22 year old undergraduate from Sri Lanka. I'm currently reading Bachelor of Information and Communication Technology Honours - BICT(Hons) degree at Uva Wellassa University.</h3>
+<h1 align="center">Hello! I'm Lasantha Pradeep. Hi, My name is Lasantha Pradeep, 22 year old undergraduate from Sri Lanka. I'm currently reading Bachelor of Information and Communication Technology Honours - BICT(Hons) degree at Uva Wellassa University.</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
