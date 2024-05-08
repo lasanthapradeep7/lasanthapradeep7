@@ -1,5 +1,5 @@
 <h1>Hello!👋, I'm Lasantha Pradeep.</h1>
-<p>Hi, My name is Lasantha Pradeep, 22 year old undergraduate from Sri Lanka. I'm currently reading Bachelor of Information and Communication Technology Honours - BICT(Hons) degree at Uva Wellassa University.ate frontend developer from India</p>
+<p>Hi, My name is Lasantha Pradeep, 22 year old undergraduate from Sri Lanka. I'm currently reading Bachelor of Information and Communication Technology Honours - BICT(Hons) degree at Uva Wellassa University.</p>
 
 - 🌱 I’m currently learning **Android,JS,Flutter**
 
