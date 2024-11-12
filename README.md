@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=22EBF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello!+I'm+Lasantha+Pradeep+%F0%9F%91%8B;Full-Stack+Developer" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=22EBF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello there!+%F0%9F%91%8B;+I'm+Lasantha+Pradeep;Full-Stack+Developer" alt="Headline" />
 </div>
 
 <p>Hi, My name is Lasantha Pradeep, 22 year old undergraduate from Sri Lanka. I'm currently reading Bachelor of Information and Communication Technology Honours - BICT(Hons) degree at Uva Wellassa University.</p>
